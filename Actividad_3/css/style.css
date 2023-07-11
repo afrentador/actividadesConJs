@@ -1,0 +1,48 @@
+body{
+    box-sizing: border-box;
+    width: 100%;
+    text-align: center;
+}
+button{
+    padding: 7px 12px;
+    margin: 5px 3px 15px;
+    outline: none;
+    cursor: pointer;
+    border-radius: 5px;
+    border: 1px solid #0000ff;
+    background-color: #0000ff;
+    color: white;
+    font-size: 1.3rem;
+}
+button:hover{
+    cursor: pointer;
+    background-color: greenyellow;
+    border: 1px solid green;
+}
+input{
+    padding: 5px 10px;
+    border-radius: 5px;
+    outline: none;
+    font-size: 1.4rem;
+    border: 1px dotted crimson;
+    color: crimson;
+    font-family: 'Montserrat', sans-serif;
+}
+#saludo{
+    margin-left: 7px;
+    font-size: 1.2rem;
+    color: 31162ac;
+}
+
+/* #imagen{
+    margin: auto;
+    width: 350px;
+    height: 350px;
+    overflow: hidden;
+}
+
+#imagen img{
+    width: 100%;
+    box-sizing: border-box;
+    padding: 30px;
+} */

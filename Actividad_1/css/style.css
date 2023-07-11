@@ -1,0 +1,19 @@
+body{
+    box-sizing: border-box;
+    width: 100%;
+}
+
+button{
+    width: 90px;
+    height: 40px;
+    margin: 15px;
+    border-radius: 15px;
+    border: none;
+    background-color: #0000ff;
+    color: white;
+    cursor: pointer;
+}
+
+.button:hover{
+    background-color: #adff2f;
+}

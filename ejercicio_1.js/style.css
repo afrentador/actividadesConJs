@@ -1,0 +1,22 @@
+.caja{
+    width: 50%;
+    height: 50%;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+img{
+    width: 300px;
+    margin: 40px;
+}
+
+.boton{
+    padding: 15px;
+    margin-bottom: 10px;
+    font-size: 1rem;
+    background-color: #ff4500;
+    color: blue;
+    border-radius: 10px;
+    border: 1px solid #ff4500;
+    cursor: pointer;
+}

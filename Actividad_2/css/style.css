@@ -1,0 +1,30 @@
+body{
+    box-sizing: border-box;
+    width: 100%;
+    text-align: center;
+}
+
+button{
+    padding: 5px;
+    margin: 5px 3px 12px;
+    border-radius: 5px;
+    outline: none;
+    cursor: pointer;
+    background-color: #0000ff;
+    border: 1px solid #0000ff;
+    color: white;
+}
+
+
+#imagen{
+    margin: auto;
+    width: 350px;
+    height: 350px;
+    overflow: hidden;
+}
+
+#imagen img{
+    width: 100%;
+    box-sizing: border-box;
+    padding: 30px;
+}
