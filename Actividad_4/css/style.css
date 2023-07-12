@@ -1,0 +1,44 @@
+body{
+    box-sizing: border-box;
+    width: 100%;
+    text-align: center;
+}
+button{
+    padding: 7px 12px;
+    margin: 5px 3px 15px;
+    outline: none;
+    cursor: pointer;
+    border-radius: 5px;
+    border: 1px solid #0000ff;
+    background-color: #0000ff;
+    color: white;
+    font-size: 1.3rem;
+}
+button:hover{
+    cursor: pointer;
+    background-color: white;
+    color: blue;
+}
+input{
+    width: 40px;
+    padding: 15px;
+    border-radius: 5px;
+    outline: none;
+    font-size: 3rem;
+    border: 1px dotted crimson;
+    color: crimson;
+    font-family: 'Montserrat', sans-serif;
+}
+input, strong{
+    font-size: 2rem;
+}
+.resultado{
+    color: blue;
+    font-size: 1.5rem;
+}
+.verde{
+    color: green;
+}
+.rojo{
+    color: red;
+}

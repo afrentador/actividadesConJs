@@ -1,5 +1,5 @@
 window.onload=inicio;
-const NOMBRECORRECTO="VICTOR"
+const NOMBRECORRECTO="ABRAHAM"
 
 function inicio(){
     document.querySelector("body").insertAdjacentHTML("beforeend", `
@@ -23,4 +23,4 @@ function leer(){
 }
 function acceder(){
     location.href="https://github.com/afrentador/Practicas_JavaScript";
-}
+} 
