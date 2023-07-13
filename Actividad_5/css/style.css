@@ -1,0 +1,22 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    box-sizing: border-box;
+    align-items: center;
+}
+.boton{
+    width: 200px;
+    height: 200px;
+    background-image: url(../img/circle-font-button-orange-free-png.webp);
+    background-size: cover;
+    border-radius: 50%;
+    text-align: center;
+    user-select: none;
+}
+.flecha{
+    font-size: 4em;
+    width: 200px;
+    height: 200px;
+}
+.porcenteje{
+    font-size: 4em;
+}
