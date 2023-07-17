@@ -1,7 +1,8 @@
 body{
     font-family: 'Montserrat', sans-serif;
     box-sizing: border-box;
-    align-items: center;
+    display: flex;
+    justify-content: center;
 }
 .boton{
     width: 200px;
