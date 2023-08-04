@@ -1,0 +1,49 @@
+body{
+    font-family: Montserrat, sans-serif;
+}
+.secuencia1{
+    width: 200px;
+    padding: 2px 15px 8px;
+    background-color: #adff2f;
+    border: 6px solid #008000;
+    border-radius: 15px;
+}
+.secuencia2{
+    width: 250px;
+    padding: 10px;
+    background-color: #2f9eff;
+    border: none;
+    border-radius:0;
+    color: white;
+    font-size: 2em;
+}
+.secuencia3{
+    width: 300px;
+    padding: 20px;
+    background-color: #e72fff;
+    color: white;
+    font-size: 2em;
+    text-align: center;
+}
+section{
+    display: flex;    
+}
+img{
+    width: 100%;
+}
+.imagen{
+    width: 50%;
+}
+.imagen2{
+    width: 30%;
+    display: flex;
+    align-items: flex-end; 
+}
+.precio{
+    font-family: 'Glegoo';
+    font-size: 2em;
+    flex: 1;
+}
+.descripcion{
+    text-align: center;
+}
